@@ -4,5 +4,5 @@ __pycache__/
 venv/
 .streamlit/secrets.toml
 streamlit_log.txt
-data_unused/
+streamlit_run.log
 .claude/
